@@ -6,6 +6,7 @@
 #include <cstring>
 #include <algorithm>
 #include <utils/ColorRgb.h>
+#include <cassert>
 
 
 template <typename Pixel_T>
